@@ -19,6 +19,8 @@
     └── .env
 ```
     
+<img src=".media_pour_md\archi.png" width="50%" height="50%" /></details> 
+
 
 Pour executer le docker compose assurez vous d'etre a la racine du projet ```\tp-projet-final\projet_tp\``` . 
 
@@ -40,4 +42,4 @@ Pour executer le docker compose assurez vous d'etre a la racine du projet ```\tp
 
 
   <details><summary>:star: ↓!!!SPOILEUR Résultats!!!↓ :star:</summary>
-<img src="gif.gif" width="whatever" height="whatever" /></details>
+<img src=".media_pour_md\gif.gif" width="whatever" height="whatever" /></details>
