@@ -31,4 +31,4 @@ RUN a2ensite itic.rockstar.com.conf
 EXPOSE 80 443
 
 # Définir la commande pour lancer Apache
-CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
+CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]|
