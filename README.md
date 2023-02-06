@@ -29,7 +29,7 @@ Pour executer le docker compose assurez vous d'etre a la racine du projet ```\tp
 # Les etapes à suivre 
 
 
-  :white_check_mark: Avoir internet
+  :white_check_mark: suivre les étapes du compte rendu pour mettre en place haproxy et keepalived
 
   :white_check_mark: Avoir Docker
 
@@ -37,7 +37,7 @@ Pour executer le docker compose assurez vous d'etre a la racine du projet ```\tp
 
   :white_check_mark: Lancer le docker compose ```docker compose up``` 
 
-  :white_check_mark: Vous n'avez plus qu'à suivre les étapes
+  :white_check_mark: Vous avez terminer
 
 
 
