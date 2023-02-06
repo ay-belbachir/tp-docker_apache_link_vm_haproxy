@@ -37,7 +37,7 @@ Pour executer le docker compose assurez vous d'etre a la racine du projet ```\tp
 
   :white_check_mark: Lancer le docker compose ```docker compose up``` 
 
-  :white_check_mark: Vous avez terminer
+  :fire: Vous avez terminer :fire:
 
 
 
