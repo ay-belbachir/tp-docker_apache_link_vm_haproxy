@@ -4,9 +4,9 @@
 
   [//]: # (<img src="https://user-images.githubusercontent.com/45585937/52410651-fa95b900-2b13-11e9-970e-eff9afd83b23.png" alt="alt text" width="400" height="whatever">)
 
+### l'arboraissance indispensable pour le Docker compose
 
-
-```arboraissance
+```
 └── projet_TP_docker/
     ├── apache/
     │   ├── server_1/
